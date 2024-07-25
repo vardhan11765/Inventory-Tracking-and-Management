@@ -1,5 +1,5 @@
-# Inventory-Tracking-and-Management
-IoT-based asset tracking system to monitor and manage the location and status of Inventory.
-To design a Web application that tracks and manages inventory using IoT devices. 
-Python for the backend, a framework like Django or Flask, and integrate IoT devices like barcode scanners or RFID readers to monitor stock levels, 
-track item movements, and provide real-time inventory data.
+# TOLL BOOTH
+Toll Booth system developed using arduino.
+I used ultrasonic sensor for detection of object when it comes in range of ultrasonic sensor.
+When detected it lifts the bar by using the servo motor. 
+I used thinkercad software to develop this project.
